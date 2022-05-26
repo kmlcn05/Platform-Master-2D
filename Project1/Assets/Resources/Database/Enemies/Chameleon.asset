@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1ede61d01265bc4981e926a1b8b9b0d, type: 3}
+  m_Name: Chameleon
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3007232838135409388, guid: 554448d8f747f9c4799fb01e43a32d25, type: 3}
+  moveSpeed: 1
+  projectile: {fileID: 840176052522763615, guid: c3ce026a522f32648a7623828f67bce8, type: 3}
+  attacktime: 2

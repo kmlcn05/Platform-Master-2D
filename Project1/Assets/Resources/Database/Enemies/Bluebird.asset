@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9912a3b2d730b0c40a98989e396ad28f, type: 3}
+  m_Name: Bluebird
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3503767573599380048, guid: 25cddb985bcd1a347acced9066b6f1bc, type: 3}
+  moveSpeed: 1
+  projectile: {fileID: 330469865148654190, guid: 529f9a466d1eea84484dca9da1ae1419, type: 3}
+  attacktime: 2
